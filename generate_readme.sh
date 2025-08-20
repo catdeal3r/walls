@@ -16,9 +16,8 @@ if [[ ! -e $folder ]]; then
   exit 1
 fi
 
-folder=$(printf $folder | tr -d '/\\')
 
-buffer="# $folder
+buffer="# $(printf $folder | tr -d '/\\')
 "
 
 if [[ "$(ls $folder)" == *"md"* ]]; then
@@ -29,9 +28,11 @@ pictures=$(ls $folder)
 
 for image in $pictures
 do
-  buffer="$buffer
+  if [[ "$image" == *"."* ]]; then
+    buffer="$buffer
 <img src=\"$image\" alt=\"$image\">
 "
+  fi
 done
 
-printf "$buffer" > "$folder/README.md"
+printf "$buffer" > "${folder}README.md"
