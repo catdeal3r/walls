@@ -7,7 +7,7 @@
 run_in_root=false
 
 function print_help() {
-  printf "Usage: generate_readme.sh --folder [FOLDER NAME OR PATH]\n"
+  printf "Usage: generate.sh --folder [FOLDER NAME OR PATH]\n\nNotes:\n  - All folders that this script is run on can only have images and readme files (otherwise it will do some pretty goofy stuff).\n  - All .md files will be wiped.\n  - This script ignores hidden directories (used to dodge generating for .git).\n  - This script recurses through directories.\n  - If you want to generate for the current folder, do this: 'generate.sh --folder .'\n"
 }
 
 function run_generate() {
