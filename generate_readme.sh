@@ -17,7 +17,7 @@ if [[ ! -e $folder ]]; then
 fi
 
 
-buffer="# $(printf $folder | tr -d '/\\')
+buffer="# $(printf $folder | head -c-2)
 "
 
 if [[ "$(ls $folder)" == *"md"* ]]; then

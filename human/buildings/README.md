@@ -1,4 +1,4 @@
-# humanbuildings
+# human/building
 
 <img src="anthony-lim-Et2bdPwFjL4-unsplash.jpg" alt="anthony-lim-Et2bdPwFjL4-unsplash.jpg">
 
