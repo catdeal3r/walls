@@ -1,4 +1,4 @@
-# animal
+# ./anim
 
 <img src="cute_cat.jpg" alt="cute_cat.jpg">
 

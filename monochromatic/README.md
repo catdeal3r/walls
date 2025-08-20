@@ -1,4 +1,4 @@
-# monochromatic
+# ./monochromat
 
 <img src="a_dirt_road_with_trees_in_the_background.png" alt="a_dirt_road_with_trees_in_the_background.png">
 

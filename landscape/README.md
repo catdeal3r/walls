@@ -1,4 +1,4 @@
-# landscape
+# ./landsca
 
 <img src="001-shore.png" alt="001-shore.png">
 

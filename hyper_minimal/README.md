@@ -1,4 +1,4 @@
-# hyper_minimal
+# ./hyper_minim
 
 <img src="adam-birkett-1M0omkZlGM4-unsplash(1).jpg" alt="adam-birkett-1M0omkZlGM4-unsplash(1).jpg">
 

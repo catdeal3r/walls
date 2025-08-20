@@ -1,4 +1,4 @@
-# minimal
+# ./minim
 
 <img src="002-shore.png" alt="002-shore.png">
 

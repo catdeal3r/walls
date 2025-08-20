@@ -1,4 +1,4 @@
-# human/building
+# ./human/buildin
 
 <img src="anthony-lim-Et2bdPwFjL4-unsplash.jpg" alt="anthony-lim-Et2bdPwFjL4-unsplash.jpg">
 

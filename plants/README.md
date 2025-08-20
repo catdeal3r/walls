@@ -1,4 +1,4 @@
-# plants
+# ./plan
 
 <img src="a_close_up_of_a_plant.jpg" alt="a_close_up_of_a_plant.jpg">
 

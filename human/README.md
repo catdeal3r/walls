@@ -1,4 +1,4 @@
-# human
+# ./hum
 
 <img src="008-foggy-town.png" alt="008-foggy-town.png">
 
