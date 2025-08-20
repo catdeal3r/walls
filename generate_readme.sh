@@ -1,4 +1,9 @@
 #!/bin/sh
+#
+# Wallpaper-to-readme generator with sh
+#
+# https://github.com/dealerofallthecats/walls
+
 
 function print_help() {
   printf "Usage: generate_readme.sh --folder [FOLDER NAME OR PATH]\n"
