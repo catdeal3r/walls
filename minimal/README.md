@@ -1,5 +1,4 @@
-# ./minim
-
+# minimal
 <img src="002-shore.png" alt="002-shore.png">
 
 <img src="1796474199651017049_photo-0.jpg" alt="1796474199651017049_photo-0.jpg">

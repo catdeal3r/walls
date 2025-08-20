@@ -1,5 +1,4 @@
-# ./absra
-
+# absract
 <img src="astro.jpg" alt="astro.jpg">
 
 <img src="bubbles.jpg" alt="bubbles.jpg">

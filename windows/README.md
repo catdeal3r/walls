@@ -1,5 +1,4 @@
-# ./windo
-
+# windows
 <img src="7889539.png" alt="7889539.png">
 
 <img src="7889565.jpg" alt="7889565.jpg">

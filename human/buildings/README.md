@@ -1,5 +1,4 @@
-# ./human/buildin
-
+# human/buildings
 <img src="anthony-lim-Et2bdPwFjL4-unsplash.jpg" alt="anthony-lim-Et2bdPwFjL4-unsplash.jpg">
 
 <img src="anthony-lim-H-lWhSbXE6o-unsplash.jpg" alt="anthony-lim-H-lWhSbXE6o-unsplash.jpg">

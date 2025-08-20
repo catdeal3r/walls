@@ -1,5 +1,4 @@
-# ./hum
-
+# human
 <img src="008-foggy-town.png" alt="008-foggy-town.png">
 
 <img src="a_small_potted_plant_on_a_wood_surface.jpg" alt="a_small_potted_plant_on_a_wood_surface.jpg">

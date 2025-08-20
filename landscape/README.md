@@ -1,5 +1,4 @@
-# ./landsca
-
+# landscape
 <img src="001-shore.png" alt="001-shore.png">
 
 <img src="6gk_rock.jpg" alt="6gk_rock.jpg">
