@@ -3,6 +3,8 @@
 
 <img src="a_group_of_black_leaves.jpg" alt="a_group_of_black_leaves.jpg">
 
+<img src="berries.jpg" alt="berries.jpg">
+
 <img src="blur_cherry.jpg" alt="blur_cherry.jpg">
 
 <img src="cherry_blossoms.jpg" alt="cherry_blossoms.jpg">
