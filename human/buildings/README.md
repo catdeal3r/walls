@@ -17,8 +17,6 @@
 
 <img src="oldApartmentWindow.jpg" alt="oldApartmentWindow.jpg">
 
-<img src="osint-exercise-007-big-picture.png" alt="osint-exercise-007-big-picture.png">
-
 <img src="osman-rana-DHMlx0Osvg8-unsplash.jpg" alt="osman-rana-DHMlx0Osvg8-unsplash.jpg">
 
 <img src="valentino-funghi-x_9PvNrFm4Q-unsplash.jpg" alt="valentino-funghi-x_9PvNrFm4Q-unsplash.jpg">
