@@ -1,4 +1,6 @@
 # human/buildings
+<img src="008-foggy-town.png" alt="008-foggy-town.png">
+
 <img src="anthony-lim-Et2bdPwFjL4-unsplash.jpg" alt="anthony-lim-Et2bdPwFjL4-unsplash.jpg">
 
 <img src="anthony-lim-H-lWhSbXE6o-unsplash.jpg" alt="anthony-lim-H-lWhSbXE6o-unsplash.jpg">
