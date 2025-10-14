@@ -1,6 +1,8 @@
 # hyper_minimal
 <img src="adam-birkett-1M0omkZlGM4-unsplash(1).jpg" alt="adam-birkett-1M0omkZlGM4-unsplash(1).jpg">
 
+<img src="blank_orange.png" alt="blank_orange.png">
+
 <img src="blank.png" alt="blank.png">
 
 <img src="blank_vintage.png" alt="blank_vintage.png">
