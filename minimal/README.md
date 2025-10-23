@@ -45,8 +45,6 @@
 
 <img src="staffan-kjellvestad-y1qOT82fd8k-unsplash.jpg" alt="staffan-kjellvestad-y1qOT82fd8k-unsplash.jpg">
 
-<img src="staffan-kjellvestad-y1qOT82fd8k-unsplash.jpg~" alt="staffan-kjellvestad-y1qOT82fd8k-unsplash.jpg~">
-
 <img src="wall.jpg" alt="wall.jpg">
 
 <img src="waves.jpg" alt="waves.jpg">
