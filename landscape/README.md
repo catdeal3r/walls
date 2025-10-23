@@ -7,6 +7,8 @@
 
 <img src="abhishek-koli-v_IJOk65reM-unsplash.jpg" alt="abhishek-koli-v_IJOk65reM-unsplash.jpg">
 
+<img src="andrew-coelho-aL7SA1ASVdQ-unsplash.jpg" alt="andrew-coelho-aL7SA1ASVdQ-unsplash.jpg">
+
 <img src="ApartmentComplex.jpg" alt="ApartmentComplex.jpg">
 
 <img src="AsianBuildings.jpg" alt="AsianBuildings.jpg">
@@ -15,11 +17,15 @@
 
 <img src="dorina-perry-Notkc1shs0U-unsplash.jpg" alt="dorina-perry-Notkc1shs0U-unsplash.jpg">
 
+<img src="filip-zrnzevic-QsWG0kjPQRY-unsplash.jpg" alt="filip-zrnzevic-QsWG0kjPQRY-unsplash.jpg">
+
 <img src="forest_above_water.jpg" alt="forest_above_water.jpg">
 
 <img src="james-lee-J6cJjcZiO8A-unsplash.jpg" alt="james-lee-J6cJjcZiO8A-unsplash.jpg">
 
 <img src="lonely_tree.jpg" alt="lonely_tree.jpg">
+
+<img src="marita-kavelashvili-ugnrXk1129g-unsplash.jpg" alt="marita-kavelashvili-ugnrXk1129g-unsplash.jpg">
 
 <img src="mountain2.jpg" alt="mountain2.jpg">
 

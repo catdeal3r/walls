@@ -21,6 +21,8 @@
 
 <img src="fog_mountain.jpg" alt="fog_mountain.jpg">
 
+<img src="ivan-bandura-Z1jyU-1ixXE-unsplash.jpg" alt="ivan-bandura-Z1jyU-1ixXE-unsplash.jpg">
+
 <img src="kenny-eliason-C8HVCiuu8c0-unsplash.jpg" alt="kenny-eliason-C8HVCiuu8c0-unsplash.jpg">
 
 <img src="long_road.jpg" alt="long_road.jpg">
@@ -28,6 +30,8 @@
 <img src="marcel-strauss-d8Dj2oxBwGc-unsplash.jpg" alt="marcel-strauss-d8Dj2oxBwGc-unsplash.jpg">
 
 <img src="mehrshad-hassani-Ce1-WE8EqNg-unsplash.jpg" alt="mehrshad-hassani-Ce1-WE8EqNg-unsplash.jpg">
+
+<img src="michael-benz--IZ2sgQKIhM-unsplash.jpg" alt="michael-benz--IZ2sgQKIhM-unsplash.jpg">
 
 <img src="minimal_sea.jpeg" alt="minimal_sea.jpeg">
 
@@ -38,6 +42,10 @@
 <img src="nathan-dumlao-ciO5L8pin8A-unsplash.jpg" alt="nathan-dumlao-ciO5L8pin8A-unsplash.jpg">
 
 <img src="rabie-madaci-7y_cYkYhDoM-unsplash.jpg" alt="rabie-madaci-7y_cYkYhDoM-unsplash.jpg">
+
+<img src="staffan-kjellvestad-y1qOT82fd8k-unsplash.jpg" alt="staffan-kjellvestad-y1qOT82fd8k-unsplash.jpg">
+
+<img src="staffan-kjellvestad-y1qOT82fd8k-unsplash.jpg~" alt="staffan-kjellvestad-y1qOT82fd8k-unsplash.jpg~">
 
 <img src="wall.jpg" alt="wall.jpg">
 
