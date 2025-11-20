@@ -29,6 +29,8 @@
 
 <img src="mountain2.jpg" alt="mountain2.jpg">
 
+<img src="mountain.jpg" alt="mountain.jpg">
+
 <img src="mountain_range_sunset.jpg" alt="mountain_range_sunset.jpg">
 
 <img src="mountains.jpg" alt="mountains.jpg">

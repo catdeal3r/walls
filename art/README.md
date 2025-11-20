@@ -1,6 +1,8 @@
 # art
 <img src="9yj6BnC.jpg" alt="9yj6BnC.jpg">
 
+<img src="anime_coffee.jpg" alt="anime_coffee.jpg">
+
 <img src="animegirl_dark_alleyway.png" alt="animegirl_dark_alleyway.png">
 
 <img src="anime_landscape.jpg" alt="anime_landscape.jpg">
