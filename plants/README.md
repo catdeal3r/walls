@@ -17,6 +17,8 @@
 
 <img src="grasslands.jpeg" alt="grasslands.jpeg">
 
+<img src="leaves_on_white.png" alt="leaves_on_white.png">
+
 <img src="netals.png" alt="netals.png">
 
 <img src="pink_flowers_green_leaves.jpg" alt="pink_flowers_green_leaves.jpg">
