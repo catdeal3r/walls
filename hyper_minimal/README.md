@@ -25,6 +25,8 @@
 
 <img src="purple_trees.png" alt="purple_trees.png">
 
+<img src="RDT_20251230_1922586894396194190400483.jpg" alt="RDT_20251230_1922586894396194190400483.jpg">
+
 <img src="scott-webb-hDyO6rr3kqk-unsplash.jpg" alt="scott-webb-hDyO6rr3kqk-unsplash.jpg">
 
 <img src="sies-kranen-Uv196Zpqkdk-unsplash.jpg" alt="sies-kranen-Uv196Zpqkdk-unsplash.jpg">

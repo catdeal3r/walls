@@ -1,5 +1,11 @@
 # abstract
+<img src="a_close-up_of_a_rocket.png" alt="a_close-up_of_a_rocket.png">
+
+<img src="a_colorful_pyramid_with_text.jpg" alt="a_colorful_pyramid_with_text.jpg">
+
 <img src="astro.jpg" alt="astro.jpg">
+
+<img src="boliviainteligente--WG_9bFmaPU.jpg" alt="boliviainteligente--WG_9bFmaPU.jpg">
 
 <img src="bubbles.jpg" alt="bubbles.jpg">
 
@@ -12,6 +18,12 @@
 <img src="pattern_cross.png" alt="pattern_cross.png">
 
 <img src="purple_blobs.jpg" alt="purple_blobs.jpg">
+
+<img src="RDT_20251230_1922295999759541181921857.jpg" alt="RDT_20251230_1922295999759541181921857.jpg">
+
+<img src="RDT_20251230_1922538721697115133668678.jpg" alt="RDT_20251230_1922538721697115133668678.jpg">
+
+<img src="Samples_01_00_00_02.jpg" alt="Samples_01_00_00_02.jpg">
 
 <img src="wallpapersden.com_hd-macos-12-digital-art-monterey.jpg" alt="wallpapersden.com_hd-macos-12-digital-art-monterey.jpg">
 

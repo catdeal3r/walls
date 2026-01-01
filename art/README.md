@@ -15,6 +15,8 @@
 
 <img src="big_wave.jpg" alt="big_wave.jpg">
 
+<img src="clouds-landscape.jpg" alt="clouds-landscape.jpg">
+
 <img src="downedferris.png" alt="downedferris.png">
 
 <img src="fullerene.jpg" alt="fullerene.jpg">
