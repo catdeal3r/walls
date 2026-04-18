@@ -13,6 +13,10 @@
 
 <img src="BrooklynBridge.jpg" alt="BrooklynBridge.jpg">
 
+<img src="carlos-rodriguez-b0GbrDtWFSs-unsplash.jpg" alt="carlos-rodriguez-b0GbrDtWFSs-unsplash.jpg">
+
+<img src="carlos-rodriguez-koUle89uuYM-unsplash.jpg" alt="carlos-rodriguez-koUle89uuYM-unsplash.jpg">
+
 <img src="clean_wall.jpeg" alt="clean_wall.jpeg">
 
 <img src="flowers.jpg" alt="flowers.jpg">
