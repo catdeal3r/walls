@@ -7,6 +7,8 @@
 
 <img src="abhishek-koli-v_IJOk65reM-unsplash.jpg" alt="abhishek-koli-v_IJOk65reM-unsplash.jpg">
 
+<img src="alin-gavriliuc-_l5bJWV7yC8-unsplash.jpg" alt="alin-gavriliuc-_l5bJWV7yC8-unsplash.jpg">
+
 <img src="andrew-coelho-aL7SA1ASVdQ-unsplash.jpg" alt="andrew-coelho-aL7SA1ASVdQ-unsplash.jpg">
 
 <img src="ApartmentComplex.jpg" alt="ApartmentComplex.jpg">
@@ -23,6 +25,8 @@
 
 <img src="james-lee-J6cJjcZiO8A-unsplash.jpg" alt="james-lee-J6cJjcZiO8A-unsplash.jpg">
 
+<img src="kevin-mueller-LicyG4pGeUs-unsplash.jpg" alt="kevin-mueller-LicyG4pGeUs-unsplash.jpg">
+
 <img src="lonely_tree.jpg" alt="lonely_tree.jpg">
 
 <img src="marita-kavelashvili-ugnrXk1129g-unsplash.jpg" alt="marita-kavelashvili-ugnrXk1129g-unsplash.jpg">
@@ -38,6 +42,8 @@
 <img src="mountain-top-snow.jpg" alt="mountain-top-snow.jpg">
 
 <img src="pexels-spdel-2758567.jpg" alt="pexels-spdel-2758567.jpg">
+
+<img src="rafael-peier-5qc-hdkepSM-unsplash.jpg" alt="rafael-peier-5qc-hdkepSM-unsplash.jpg">
 
 <img src="venice.jpg" alt="venice.jpg">
 
