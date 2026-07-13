@@ -23,6 +23,8 @@
 
 <img src="peter-olexa-RYtiT3b7XW4-unsplash.jpg" alt="peter-olexa-RYtiT3b7XW4-unsplash.jpg">
 
+<img src="petri-r-SgeRfp8xdfo-unsplash.jpg" alt="petri-r-SgeRfp8xdfo-unsplash.jpg">
+
 <img src="purple_blobs.jpg" alt="purple_blobs.jpg">
 
 <img src="RDT_20251230_1922295999759541181921857.jpg" alt="RDT_20251230_1922295999759541181921857.jpg">

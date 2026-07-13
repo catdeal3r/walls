@@ -7,6 +7,8 @@
 
 <img src="abhishek-koli-v_IJOk65reM-unsplash.jpg" alt="abhishek-koli-v_IJOk65reM-unsplash.jpg">
 
+<img src="alexander-kaufmann-kJZWUrNTI3Y-unsplash.jpg" alt="alexander-kaufmann-kJZWUrNTI3Y-unsplash.jpg">
+
 <img src="alin-gavriliuc-_l5bJWV7yC8-unsplash.jpg" alt="alin-gavriliuc-_l5bJWV7yC8-unsplash.jpg">
 
 <img src="andrew-coelho-aL7SA1ASVdQ-unsplash.jpg" alt="andrew-coelho-aL7SA1ASVdQ-unsplash.jpg">
@@ -14,6 +16,8 @@
 <img src="ApartmentComplex.jpg" alt="ApartmentComplex.jpg">
 
 <img src="AsianBuildings.jpg" alt="AsianBuildings.jpg">
+
+<img src="daniel-j-schwarz-ZeGQ22v9Zhk-unsplash.jpg" alt="daniel-j-schwarz-ZeGQ22v9Zhk-unsplash.jpg">
 
 <img src="DarkMountains.jpg" alt="DarkMountains.jpg">
 
@@ -48,6 +52,8 @@
 <img src="pexels-spdel-2758567.jpg" alt="pexels-spdel-2758567.jpg">
 
 <img src="rafael-peier-5qc-hdkepSM-unsplash.jpg" alt="rafael-peier-5qc-hdkepSM-unsplash.jpg">
+
+<img src="tegan-conway-yvwSaA5TjoA-unsplash.jpg" alt="tegan-conway-yvwSaA5TjoA-unsplash.jpg">
 
 <img src="venice.jpg" alt="venice.jpg">
 
